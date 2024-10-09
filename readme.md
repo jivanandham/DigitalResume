@@ -1,12 +1,9 @@
-# Dennis Ivy Digital Resume
+# Jeeva Krishnasamy Digital Resume
 
 A digital resume website built based on the content from my personal REAL [resume](./assets/resume.pdf)
 
 View live demo here using github pages: [Live Demo](https://divanov11.github.io/Digital-Resume/)
 
-## Preview
-
-<img src="assets\images\demo.gif">
 
 ## Deploy your own digital resume
 
